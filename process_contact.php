@@ -18,7 +18,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     }
 
     // Email settings
-    $to = "faithschoolstz@gmail.com"; // Replace with your email
+    $to = "karumunasarah63@gmail.com"; // Replace with your email
     $email_subject = "Contact Form: $subject";
     $email_body = "You have received a new message from $name.\n\n".
                   "Email: $email\n\n".
